@@ -14,8 +14,6 @@ LONG_BREAK_MIN = 20
 reps = 0
 timer = None
 
-git config --global core.editor "'C:\Users\walston\AppData\Local\Programs\Microsoft VS Code\Code.exe' -multiInst -notabbar -nosession -noPlugin"
-
 # ---------------------------- TIMER RESET ------------------------------- # 
 
 def reset_timer():
